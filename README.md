@@ -4,7 +4,7 @@ Solucionador de juegos de Sudoku desarrollado en Java. El programa tiene una int
 ## Table of contents
 * [Información general](#información-general)
 * [Configuración](#configuración)
-* [Tutorial](#Tutorial)
+* [Tutorial](#tutorial)
 * [Características](#características)
 * [Status](#status)
 
@@ -21,11 +21,15 @@ B --> C[Ejecutar archivo ProyectoSudoku.jar]
 ```
 ## Tutorial
 Ejecute el programa.
+
 ![Interfaz1](./img/captura1.png)
 Ingrese los números del problema a resolver.
+
 ![Interfaz2](./img/captura2.png)
 Presione el botón resolver para obtener una solución.
+
 ![Interfaz3](./img/captura3.png)
+
 Presione el botón limpiar para poder ingresar un nuevo problema.
 
 ## Características
