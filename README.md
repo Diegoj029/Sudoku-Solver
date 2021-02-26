@@ -6,7 +6,7 @@ Solucionador de juegos de Sudoku desarrollado en Java. El programa tiene una int
 * [Configuración](#configuración)
 * [Tutorial](#tutorial)
 * [Características](#características)
-* [Status](#status)
+* [Estado](#estado)
 
 ## Información general
 El programa fue desarrollado en Java para la clase "Estructura de Datos" del Instituto Tecnológico Autónomo de México. Se utilizó NetBeans para facilitar el desarrollo de la interfaz gráfica.
@@ -36,5 +36,5 @@ Lista de características del programa
 * Capaz de resolver una amplia variedad de problemas
 * Reinicio rápido para buscar nuevas soluciones
 
-## Status
+## Estado
 Este proyecto está terminado.
