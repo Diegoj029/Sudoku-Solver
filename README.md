@@ -1,7 +1,7 @@
 # Sudoku Solver
 Solucionador de juegos de Sudoku desarrollado en Java. El programa tiene una interfaz gráfica que replica la apariencia de un juego de Sudoku convencional y añade la funcionalidad de resolver automáticamente el juego.
 
-## Table of contents
+## Tabla de Contenido
 * [Información general](#información-general)
 * [Configuración](#configuración)
 * [Tutorial](#tutorial)
