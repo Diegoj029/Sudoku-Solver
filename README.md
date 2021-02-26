@@ -18,19 +18,19 @@ Para empezar a utilizar el programa, descargue y ejecute el archivo [ProyectoSud
 ![Diagrama](./img/diagrama1.png)
 
 ## Tutorial
-Ejecute el programa.
+*Ejecute el programa.
 
 ![Interfaz1](./img/captura1.png)
 
-Ingrese los números del problema a resolver.
+*Ingrese los números del problema a resolver.
 
 ![Interfaz2](./img/captura2.png)
 
-Presione el botón resolver para obtener una solución.
+*Presione el botón "Resolver" para obtener una solución.
 
 ![Interfaz3](./img/captura3.png)
 
-Presione el botón limpiar para poder ingresar un nuevo problema.
+*Presione el botón "Limpiar" para poder ingresar un nuevo problema.
 
 ## Características
 Lista de características del programa
