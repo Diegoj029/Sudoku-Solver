@@ -14,11 +14,9 @@ El programa fue desarrollado en Java para la clase "Estructura de Datos" del Ins
 ## Configuración
 Primero, asegúrese de tener la última versión de [Java](https://www.java.com/es/download/).
 Para empezar a utilizar el programa, descargue y ejecute el archivo [ProyectoSudoku.jar](./ProyectoSudoku.jar).
-```mermaid
-graph LR
-A[Descargar Java] --> B[Descargar archivo ProyectoSudoku.jar]
-B --> C[Ejecutar archivo ProyectoSudoku.jar]
-```
+
+![Diagrama](./img/diagrama1.png)
+
 ## Tutorial
 Ejecute el programa.
 
